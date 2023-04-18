@@ -1,6 +1,7 @@
 # Moive-Website
-Final Project
-1.홈페이지
+Final Projec
+
+
  ![image](https://user-images.githubusercontent.com/122337342/232742321-dba97b68-b30a-4b8b-928a-97b4ec4adb5a.png)
  
 1-1. 이미 가입된 회원이라면, 로그인 버튼을 누른다.
