@@ -1,6 +1,7 @@
 # Moive-Website
-Final Projec
+Final Project
 
+1. 홈페이지
 
  ![image](https://user-images.githubusercontent.com/122337342/232742321-dba97b68-b30a-4b8b-928a-97b4ec4adb5a.png)
  
@@ -13,3 +14,30 @@ Final Projec
 1-4. 상세보기를 누르면, 그 영화의 상세 정보 및 영화에 관한 리뷰가 보이는 페이지로 이동한다.
 
 1-5. 예매하기를 누르면, 영화 예매페이지로 이동한다.
+
+
+
+2.회원가입  
+
+![image](https://user-images.githubusercontent.com/122337342/232742966-d2703544-ea21-4caf-bccb-fcb1d2434e5d.png)
+
+2-1. 사용자가 사용할 ID를 입력한다.
+
+2-2. 사용자가 사용할 비밀번호를 입력한다.
+
+2-3. 사용자의 이름을 입력한다.
+
+2-4. 사용자의 생년월일을 선택한다.
+
+2-5. 사용자가 자주 사용하는 E-mail 을 입력한다.
+
+2-6. 사용자의 전화번호를 입력한다.
+
+2-7. 사용자가 거주하는 주소를 입력한다.
+
+
+
+
+
+
+
